@@ -1,5 +1,6 @@
-
-</div>
+<p align="center">
+  <img src="./assets/aurora-veil.svg" width="100%" alt="Winston — Aurora Veil" />
+</p>
 
 Winston。最近在研究 AI Agent 用於工作流、語音。
 ## Projects
